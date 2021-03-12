@@ -1,0 +1,7 @@
+*.classpath
+*.project
+*.class
+*.conf
+/newfolder /*
+/testfolder /*
+/samplefolder/*
